@@ -16,7 +16,7 @@
         - [ ] [Switch statements](https://youtu.be/mA23x39DjbI)
     - [ ] [Data-types](https://youtu.be/TAtrPoaJ7gc?t=2800)
     - [ ] [Coding best practices](https://youtu.be/waGfV-IoOt8)
-- [ ][Functions](https://youtu.be/vvanI8NRlSI)
+- [ ] [Functions](https://youtu.be/vvanI8NRlSI)
     - [ ][Introduction](https://youtu.be/vvanI8NRlSI)
     - [ ][Scoping in Java](https://youtu.be/vvanI8NRlSI?t=2801)
     - [ ][Shadowing](https://youtu.be/vvanI8NRlSI?t=3584)
