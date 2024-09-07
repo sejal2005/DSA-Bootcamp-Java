@@ -33,7 +33,7 @@
         - [ ]  [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - [ ]  [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
     - [ ]  Sorting
-        - [ ]  [Insertion Sort](https://youtu.be/By_5- [ ] RRqVeE)
+        - [ ]  [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [ ]  [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [ ]  [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
         - [ ]  [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
@@ -59,14 +59,14 @@
     - [ ]  [Number Theory](https://youtu.be/lmSpZ0bjCyQ?t=4405)
     - [ ]  [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
     - [ ]  [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
-    - [ ]  [BigInteger & BigDecimal](https://www.youtube.com/watch?v=lHtoypC- [ ] 4Ps)
+    - [ ]  [BigInteger & BigDecimal](https://www.youtube.com/watch?v=lHtoypC-4Ps)
 - [ ]  [Recursion](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
     - [ ]  [Introduction](https://youtu.be/M2uO2nMT0Bk)
-    - [ ]  [Flow of recursive programs - [ ]  stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
+    - [ ]  [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
     - [ ]  [Why recursion?](https://youtu.be/M2uO2nMT0Bk?t=2708)
     - [ ]  [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
     - [ ]  [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
-    - [ ]  [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq- [ ] 9CXLt9DsInytRMLoyZQ_)
+    - [ ]  [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq-9CXLt9DsInytRMLoyZQ_)
         - [ ]  [Merge Sort](https://youtu.be/iKGAgWdgoRk)
         - [ ]  [Quick Sort](https://www.youtube.com/watch?v=Z8svOqamag8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27)
     - [ ]  [Backtracking](https://youtu.be/zg5v2rlV1tM)
@@ -103,19 +103,19 @@
     - [ ]  [Static & Non- [ ] Static](https://youtu.be/_Ya6CN13t8k?t=1137)
     - [ ]  [Packages](https://youtu.be/_Ya6CN13t8k?t=182)
     - [ ]  [Access Control](https://youtu.be/W145DXs8fFg)
-    - [ ]  [Interfaces](https://youtu.be/rgHZa7- [ ] Dibg?t=1510)
-    - [ ]  [Abstract Classes](https://youtu.be/rgHZa7- [ ] Dibg?t=68)
-    - [ ]  [Annotations](https://youtu.be/rgHZa7- [ ] Dibg?t=3438)
+    - [ ]  [Interfaces](https://youtu.be/rgHZa7-Dibg?t=1510)
+    - [ ]  [Abstract Classes](https://youtu.be/rgHZa7-Dibg?t=68)
+    - [ ]  [Annotations](https://youtu.be/rgHZa7-Dibg?t=3438)
     - [ ]  [Singleton Class](https://youtu.be/_Ya6CN13t8k?t=4240) 
     - [ ]  [final, finalize, finally](https://youtu.be/46T2wD3IuhM?t=6317)
     - [ ]  [Object Cloning](https://youtu.be/OY2lPr8h93U?t=4352)
     - [ ]  [Object Class](https://youtu.be/W145DXs8fFg?t=1943)
     - [ ]  [Generics](https://www.youtube.com/watch?v=OY2lPr8h93U)
     - [ ]  [Exception Handling](https://youtu.be/OY2lPr8h93U?t=3405)
-    - [ ]  [Collections Framework](https://youtu.be/9ogGan- [ ] R1pc?t=49)
-    - [ ]  [Vector Class](https://youtu.be/9ogGan- [ ] R1pc?t=668)
+    - [ ]  [Collections Framework](https://youtu.be/9ogGan-R1pc?t=49)
+    - [ ]  [Vector Class](https://youtu.be/9ogGan-R1pc?t=668)
     - [ ]  [Lambda Expression](https://youtu.be/OY2lPr8h93U?t=2894) 
-    - [ ]  [Enums](https://youtu.be/9ogGan- [ ] R1pc?t=909)
+    - [ ]  [Enums](https://youtu.be/9ogGan-R1pc?t=909)
 - [ ]  Linked List
     - [ ]  [Introduction](https://youtu.be/58YbpRDc4yw)
     - [ ]  [Singly + Doubly + Circular LinkedList](https://youtu.be/58YbpRDc4yw)
@@ -135,24 +135,24 @@
     - [ ]  [Introduction](https://www.youtube.com/watch?v=4s1Tcvm00pA)
       - [ ]  Binary Trees
       - [ ]  Binary Search Trees
-    - [ ]  [Interview questions](https://www.youtube.com/watch?v=9D- [ ] vP- [ ] jcc- [ ] Y)
+    - [ ]  [Interview questions](https://www.youtube.com/watch?v=9D-vP-jcc-Y)
       - [ ]  DFS
       - [ ]  BFS
     - [ ]  [AVL Trees](https://www.youtube.com/watch?v=CVA85JuJEn0)
     - [ ]  [Segment Tree](https://www.youtube.com/watch?v=ciHThtTVNto)
     - [ ]  Fenwick Tree / Binary Indexed Tree
 - [ ]  Heaps
-    - [ ]  [Introduction](https://youtu.be/Qf- [ ] TDPr0nYw)
+    - [ ]  [Introduction](https://youtu.be/Qf-TDPr0nYw)
         - [ ]  Theory
         - [ ]  Priority Queue
         - [ ]  Heapsort
     - [ ]  Two Heaps Method
-    - [ ]  k- [ ] way merge
+    - [ ]  k-way merge
     - [ ]  Top k elements
     - [ ]  Interval problems
 - [ ]  HashMap
     - [ ]  [Introduction](https://youtu.be/XLbvmMz8Fr8)
-        - [ ]  Theory - [ ]  how it works
+        - [ ]  Theory -how it works
         - [ ]  Comparisons of various forms
         - [ ]  Limitations and how to solve
         - [ ]  Map using LinkedList
@@ -160,7 +160,7 @@
         - [ ]  Chaining
         - [ ]  Probing
     - [ ]  [Huffman Coding](https://youtu.be/XLfgeaYHinM)
-    - [ ]  [Karp- [ ] Rabin Strng matching algorithm](https://youtu.be/swciWFPq3NE)
+    - [ ]  [Karp-Rabin Strng matching algorithm](https://youtu.be/swciWFPq3NE)
 - [ ]  Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
 - [ ]  Graphs
     - [ ]  Introduction
@@ -200,6 +200,6 @@
 - [ ]  Lucas Theorem
 - [ ]  Chinese Remainder Theorem
 - [ ]  Euler Totient
-- [ ]  NP- [ ] Completeness
+- [ ]  NP-Completeness
 - [ ]  Multithreading
 - [ ]  Square Root Decomposition
